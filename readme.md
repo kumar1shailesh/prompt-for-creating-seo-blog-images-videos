@@ -2,14 +2,21 @@
 prompt for writing seo friendly article and for creating videos &amp; images
 
 As a copy editor experienced in SEO, craft an inspiring short story highlighting the product [X]'s features aimed at wellness-focused customers, emphasizing how it promotes a healthy balance and enhances overall happiness.
+
 As a content creator, write a friendly headline for a blog article targeting family-oriented customers, highlighting the product [X]'s benefits in enabling them to spend more quality time with their loved ones.
+
 As a content marketer, draft a confident social media post for a sale event targeting tech-savvy customers, emphasizing the product [X]'s ability to help them stay ahead of the latest technological trends.
+
 As a copywriter, draft a script for a Facebook advertisement with a fun and energetic tone targeting young adults. The advertisement should highlight how the product simplifies and improves their daily lives, making it easier for them to focus on the things that matter most.
+
 As a content creator, write a script for a TV commercial that appeals to families with young children. The advertisement should highlight the benefits of the product in providing a safe and secure environment for kids to play and learn.
 As a social media manager, create a script for an influencer collaboration aimed at fitness-conscious customers. The advertisement should highlight how the product enhances their workouts, improves their health, and helps them reach their fitness goals.
+
 As a marketer, write a script for a radio advertisement targeting busy professionals. The advertisement should highlight how the product saves time and provides convenience in their fast-paced lives, allowing them to focus on the things that matter most.
+
 As a content strategist, write a script for a Snapchat advertisement aimed at college students. The advertisement should highlight how the product provides affordable and practical solutions for their everyday needs, making it easier for them to manage their finances and live stress-free lives on campus.
 Rewrite [text] and use headings and subheadings to break up the content and make it easier to read using the keyword [keyword].
+
 Paraphrase this [text] and use active voice and short sentences to make the content more readable for [target audience] in the context of [keyword].
 
 
