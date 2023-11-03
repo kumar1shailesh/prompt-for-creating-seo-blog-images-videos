@@ -19,6 +19,26 @@ Rewrite [text] and use headings and subheadings to break up the content and make
 
 Paraphrase this [text] and use active voice and short sentences to make the content more readable for [target audience] in the context of [keyword].
 
+# Image Generation:
+Abstract Expressionist Landscape:
+Generate an abstract expressionist landscape featuring vibrant, swirling colors reminiscent of a sunset over a surreal, otherworldly terrain. Incorporate bold brushstrokes and dynamic textures, capturing the essence of raw emotion and energy.
+
+Minimalist Architectural Photography:
+Capture a minimalist architectural photograph of a modern skyscraper at dusk. Emphasize clean lines, sharp angles, and a limited color palette, focusing on the interplay of light and shadows to create a visually striking composition.
+
+Cubist Still Life:
+Create a cubist-style still life featuring everyday objects like fruits, vases, and books. Deconstruct and reassemble the objects into geometric shapes, emphasizing the use of fragmented forms and multiple viewpoints. Use a muted color palette inspired by the works of Picasso and Braque.
+
+# Video Generation:
+Dynamic Abstract Animation:
+Generate a dynamic abstract animation with fluid, morphing shapes and vibrant colors. Create a visual journey of transformation and movement, exploring various abstract forms and patterns. Set the animation to an energetic soundtrack, enhancing the overall experience.
+
+Aerial Cityscape Time-lapse:
+Produce an aerial time-lapse video of a bustling cityscape transitioning from day to night. Showcase the city's iconic landmarks, traffic flow, and changing city lights. Use smooth transitions and subtle camera movements to capture the urban landscape's evolving beauty.
+
+Interactive 3D Cubist Environment:
+Develop an interactive 3D environment inspired by cubism, allowing users to explore a surreal, cubist-inspired world. Enable users to manipulate and rotate objects, revealing different perspectives and angles. Incorporate ambient music and interactive sound effects to enhance the immersive experience.
+
 
 
 # Here are 20 examples of advanced prompts for MidJourney to generate various types of images:
